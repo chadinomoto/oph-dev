@@ -1,0 +1,31 @@
+{
+    "theme_color": "#fcf4a0",
+    "background_color": "#fcf4a0",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "MWIT Open House 2023",
+    "short_name": "MWIT OPH 2023",
+    "description": "MWIT Open House 2023 | 25-26 \u0e2a\u0e34\u0e07\u0e2b\u0e32\u0e04\u0e21 2566",
+    "icons": [{
+            "src": "https://openhouse.mwit.ac.th/img/2023/oph23-logo_100.png",
+            "sizes": "100x83",
+            "type": "image/png"
+        },
+        {
+            "src": "https://openhouse.mwit.ac.th/img/2023/oph23-logo_250.png",
+            "sizes": "250x207",
+            "type": "image/png"
+        },
+        {
+            "src": "https://openhouse.mwit.ac.th/img/2023/oph23-logo_500.png",
+            "sizes": "500x414",
+            "type": "image/png"
+        },
+        {
+            "src": "https://openhouse.mwit.ac.th/img/2023/oph23-logo.png",
+            "sizes": "2000x1653",
+            "type": "image/png"
+        }
+    ]
+}
